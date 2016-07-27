@@ -1,3 +1,4 @@
-~.ipynb
 .ipynb_checkpoints
-~.pyc
+.idea
+class_aggregates_notebook.py
+*.pyc
